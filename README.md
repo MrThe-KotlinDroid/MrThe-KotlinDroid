@@ -1,27 +1,37 @@
-Hi, I’m Abrar.
+<h2>Hey 👋, I'm Abrar</h2>
 
-I’m focused on building solid mobile development fundamentals and currently working with Flutter and Dart.
+<p>
+I’m a <strong>Mobile App Developer</strong> focused on building solid fundamentals and real projects.
+<br/>
+Currently working with <strong>Flutter & Dart</strong>, with a background in <strong>Android (Java, Kotlin, XML)</strong>.
+</p>
 
----
+<img align="right" height="180"
+  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-### Current Focus
-- Learning Flutter and Dart through structured daily practice
-- Writing small, focused apps to strengthen fundamentals
-- Improving code organization and consistency
+<h3>⚡️ Current Focus</h3>
+<ul>
+  <li>📱 Building Flutter apps with clean structure and fundamentals</li>
+  <li>🧠 Strengthening mobile concepts through hands-on practice</li>
+  <li>🔁 Improving consistency, code organization, and problem-solving</li>
+</ul>
 
----
+<h3>🧩 Background</h3>
+<ul>
+  <li>Android development using <strong>Java, Kotlin, XML</strong></li>
+  <li>Worked with <strong>Activities, Fragments, Intents</strong></li>
+  <li>UI components like <strong>RecyclerView</strong> and basic navigation</li>
+  <li>Local data persistence using <strong>Room (SQLite)</strong></li>
+  <li>Hands-on experience with <strong>MVVM architecture</strong></li>
+</ul>
 
-### Background
-- Android development using **Java, Kotlin, and XML**
-- Experience with core Android components:
-  - Activities, Fragments, Intents
-  - RecyclerView, Toasts, basic navigation
-- Data persistence using **Room (SQLite)**
-- Familiar with **MVVM architecture** from hands-on projects
-- Tools: Android Studio, VS Code, Git, GitHub
+<h3>🛠 Tech Stack</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=android,kotlin,java,flutter,dart,sqlite,git,github,vscode" />
+</p>
 
----
+<hr/>
 
-### Notes
-This GitHub reflects my learning and practice over time.  
-Pinned repositories represent what I’m currently focused on.
+<p>
+Pinned repositories highlight what I’m currently working on and the projects that built my foundation.
+</p>
