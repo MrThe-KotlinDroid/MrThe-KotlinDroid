@@ -1,16 +1,27 @@
-## Hi there 👋
+Hi, I’m Abrar.
 
-<!--
-**MrThe-KotlinDroid/MrThe-KotlinDroid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m focused on building solid mobile development fundamentals and currently working with Flutter and Dart.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current Focus
+- Learning Flutter and Dart through structured daily practice
+- Writing small, focused apps to strengthen fundamentals
+- Improving code organization and consistency
+
+---
+
+### Background
+- Android development using **Java, Kotlin, and XML**
+- Experience with core Android components:
+  - Activities, Fragments, Intents
+  - RecyclerView, Toasts, basic navigation
+- Data persistence using **Room (SQLite)**
+- Familiar with **MVVM architecture** from hands-on projects
+- Tools: Android Studio, VS Code, Git, GitHub
+
+---
+
+### Notes
+This GitHub reflects my learning and practice over time.  
+Pinned repositories represent what I’m currently focused on.
